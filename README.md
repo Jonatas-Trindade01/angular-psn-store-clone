@@ -1,27 +1,25 @@
-# Store
+# Desafio Dio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+# Jonatas-Trindade01
 
-## Development server
+## Conecte-se comigo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/j%C3%B4natas-trindade-lira-50515519b/)
 
-## Code scaffolding
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/jonatas_developer/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Habilidades
 
-## Build
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
-## Running unit tests
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MYSQL&)
 
-## Running end-to-end tests
+## GitHub stas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonatas-Trindade01&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jonatas-Trindade01&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
